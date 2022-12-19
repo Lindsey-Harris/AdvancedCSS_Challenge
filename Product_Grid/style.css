@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+h1 {
+    background-color: black;
+    color: darkgrey;
+    font-size: 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 250px);
+    grid-row-gap: 100px;
+    background-color: goldenrod;
+    padding: 100px;
+  
+}
+
+.AJ1 {
+    border: 2px solid black;
+   
+}
+
+.AJ1-Low {
+    border: 2px solid black;
+    height: 300px;
+}
+
+.AJ4 {
+    border: 2px solid black;
+}
+
+.AJ12 {
+    border: 2px solid black;
+}
+
+.Jordan-3 {
+    border: 2px solid black;
+    height: 300px;
+}
+
+.Timbs-Men {
+    border: 2px solid black;
+}
+
+.Timbs-Women {
+    border: 2px solid black;
+}
+
+.Yeezy {
+    border: 2px solid black;
+}
